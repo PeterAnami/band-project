@@ -64,6 +64,7 @@ position: relative;
   font-size: 60px;
   color: darkgoldenrod;
   font-weight: 500;
+  font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .text-box p{
   margin: 10px 0 40px;
